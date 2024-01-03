@@ -1,0 +1,7 @@
+Contents of the file are
+['hello america\n', 'Good morning\n', 'thank you\n']
+Odd lines
+['hello america\n', 'thank you\n']
+Even lines
+['Good morning\n']
+

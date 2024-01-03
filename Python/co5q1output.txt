@@ -1,0 +1,3 @@
+['hello america\n', 'Good morning\n', 'thank you\n']
+['hello america', 'Good morning', 'thank you']
+

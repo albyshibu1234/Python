@@ -1,0 +1,17 @@
+1.write a program to find the sum of elements in list of numbers
+2.create a list of numbers and perform the following operations
+	a. smallest number from the list
+	b. largest number from the list
+	c. remove duplicates from the list
+	d. append a list of numbers to the exisitng list
+3.Input a string and perform the following operations
+		a. length of the string
+		b. reverse a string
+		c. replace all occurence of the first charecter with '$' symbol except the first character
+		d. input another string ,concatenate the twp strings
+4.Create a dictionary of item number and item name ,sort the dictionary in ascending and descending order of item names
+5.Create a package shapes with modules square and rectangleand sub-package new shape with modules triangle and circle,inlude methods to find the area of     respective figures in each module.Write a program to find the area of figures by import statments
+6.Create a class time with private attributes hour, minute and seconds,find the sum of two times
+7.Create a class student with members rollno,name,course and total mark,write constructor and methods to add 10 marks to all students with total mark greater than 400
+8.Write a program to create a file with nmes of 10 students ,read the file and store it into a list
+9.Create a csv file with student number, name and course.read specific coloumns  of the file and print te contents of the coloumns			
